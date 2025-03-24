@@ -2,7 +2,7 @@
 
 <!-- ![T-Menu Managerの実行場面](images/app_overview.png) -->
 
-<img src="images/app_overview.png" width="75%">
+<img src="images/t-menu-manager-overview.gif" width="75%">
 
 T-Menu Managerは，[Pythonista3](https://omz-software.com/pythonista/)を用いて**トレーニングメニューを簡単に記録・管理できるカスタムキーボード**です．重量や回数を素早く入力し，履歴を保存できます．
 
