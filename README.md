@@ -6,6 +6,10 @@
 
 T-Menu Managerは，[Pythonista3](https://omz-software.com/pythonista/)を用いて**トレーニングメニューを簡単に記録・管理できるカスタムキーボード**です．重量や回数を素早く入力し，履歴を保存できます．
 
+## 📰 関連記事
+
+[Pythonista3と Cursorで作る筋トレ記録用キーボード](https://qiita.com/keitao7gawa/items/b36bbed64cd784a98a09) - Qiitaに投稿しました．
+
 ## ✨ 機能
 
 - 📱 キーボード上でのトレーニング記録
